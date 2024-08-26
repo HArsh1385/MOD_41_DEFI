@@ -46,7 +46,7 @@ Copy and paste your solid smart contract code into Remix. Collect contracts and 
  ## then we have to check the balance of the address
 
 ## Author:
-kumar sanjeev
+Harsh Apoorva
 
 ## License
 This project is licensed under the MIT License - see LICENSE.md for details. Create another Legumin file based on the following information.
